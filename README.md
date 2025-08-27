@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kelvin!
 👩🏻‍💻 **Software Developer | Mobile & Web Development Enthusiast**<br/>
-👩🏻‍🎓 fresh graduate **Information System** at the University of Brawijaya, Indonesia<br/>
+👩🏻‍🎓 fresh graduate **Information System** at the Universitas Brawijaya, Indonesia<br/>
 💭 Currently learning Flutter, Laravel, Next.Js,<br/>
 👀 Open to opportunities — feel free to reach me through my socials below<br/>
 
